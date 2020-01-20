@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="992f5c43-7316-42bc-93b8-ca53ff0a49ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/User.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="t2-backend-api-Sprajapati123-master" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/mycart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="45" column="25" lean-forward="true" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#figure#0;n#li#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/userindex.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding>
+                <element signature="n#style#0;n#figure#0;n#li#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/custom.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/usersdashboard.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="269" column="26" selection-start-line="269" selection-start-column="26" selection-end-line="269" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/User.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="75" column="27" lean-forward="true" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="76" column="108" selection-start-line="76" selection-start-column="108" selection-end-line="76" selection-end-column="108" />
+              <folding>
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-756">
+              <caret line="76" column="30" lean-forward="true" selection-start-line="66" selection-start-column="18" selection-end-line="76" selection-end-column="30" />
+              <folding>
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="n#header#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#p#1;n#fieldset#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#fieldset#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="46" selection-start-line="46" selection-end-line="146" selection-end-column="25" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>addt</find>
+      <find>itemdeta</find>
+      <find>hidden</find>
+      <find>updatemy</find>
+      <find>get</find>
+      <find>message</find>
+      <find>updatemyde</find>
+      <find>updatemydetail</find>
+      <find>1</find>
+      <find>aa-cart-</find>
+      <find>aa-cart-li</find>
+      <find>deleteite</find>
+      <find>updateus</find>
+      <find>addto</find>
+      <find>updatem</find>
+      <find>update</find>
+      <find>quer</find>
+      <find>user_name</find>
+      <find>search</find>
+      <find>searc</find>
+      <find>sea</find>
+      <find>viewbooking</find>
+      <find>sear</find>
+      <find>aa-product-catg li</find>
+      <find>put</find>
+      <find>feedback</find>
+      <find>dail</find>
+      <find>daily</find>
+      <find>mysq</find>
+      <find>viewitem</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../t3-frontend-web-Sprajapati123/index.html" />
+        <option value="$PROJECT_DIR$/model/AuthControlelr.js" />
+        <option value="$PROJECT_DIR$/model/AuthController.js" />
+        <option value="$PROJECT_DIR$/dbconfig/AuthController.js" />
+        <option value="$PROJECT_DIR$/../t3-frontend-web-Sprajapati123/custom.js" />
+        <option value="$PROJECT_DIR$/../t3-frontend-web-Sprajapati123/frontend/index.html" />
+        <option value="$PROJECT_DIR$/../t3-frontend-web-Sprajapati123/frontend/register.html" />
+        <option value="$PROJECT_DIR$/controller/controller.js" />
+        <option value="$PROJECT_DIR$/../t3-frontend-web-Sprajapati123/resources/js/custom.js" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/model/ItemModel.js" />
+        <option value="$PROJECT_DIR$/controller/ItemController.js" />
+        <option value="$PROJECT_DIR$/model/FeedbackModel.js" />
+        <option value="$PROJECT_DIR$/controller/FeedbackController.js" />
+        <option value="$PROJECT_DIR$/model/userModel.js" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/blog.html" />
+        <option value="$PROJECT_DIR$/controller/AuthController.js" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/viewdetail.html" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/logout.js" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/feedback.js" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/admin.js" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/admin/account.html" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/admin/admincart.html" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/admin/index.html" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/admin/messages.html" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/myaccount.js" />
+        <option value="$PROJECT_DIR$/model/query.js" />
+        <option value="$PROJECT_DIR$/controller/BookingController.js" />
+        <option value="$PROJECT_DIR$/model/BookingModel.js" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/admin/items.html" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/booking.js" />
+        <option value="$PROJECT_DIR$/controller/userController.js" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/itemdashboard.js" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/css/style.css" />
+        <option value="$PROJECT_DIR$/test/Items.js" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/myaccount.html" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/aboutus.html" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/help.html" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/mycart.html" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/custom.js" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/admincart.js" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/usersdashboard.js" />
+        <option value="$PROJECT_DIR$/test/User.js" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/login.html" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/register.html" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/contact.html" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/index.html" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/userindex.js" />
+        <option value="$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/mycart.js" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="650" />
+    <option name="height" value="555" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="t2-backend-api-Sprajapati123-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t2-backend-api-Sprajapati123-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t2-backend-api-Sprajapati123-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t2-backend-api-Sprajapati123-master" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t2-backend-api-Sprajapati123-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t2-backend-api-Sprajapati123-master" type="462c0819:PsiDirectoryNode" />
+              <item name="dbconfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t2-backend-api-Sprajapati123-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t2-backend-api-Sprajapati123-master" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t2-backend-api-Sprajapati123-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t3-frontend-web-Sprajapati123" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t2-backend-api-Sprajapati123-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t3-frontend-web-Sprajapati123" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t2-backend-api-Sprajapati123-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t3-frontend-web-Sprajapati123" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t2-backend-api-Sprajapati123-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t3-frontend-web-Sprajapati123" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t2-backend-api-Sprajapati123-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t3-frontend-web-Sprajapati123" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t2-backend-api-Sprajapati123-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t3-frontend-web-Sprajapati123" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t2-backend-api-Sprajapati123-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t3-frontend-web-Sprajapati123" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/webApi" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../t3-frontend-web-Sprajapati123/frontend" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="992f5c43-7316-42bc-93b8-ca53ff0a49ea" name="Default Changelist" comment="" />
+      <created>1557801457897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557801457897</updated>
+      <workItem from="1557801459346" duration="635000" />
+      <workItem from="1557896179116" duration="817000" />
+      <workItem from="1557939545876" duration="29000" />
+      <workItem from="1558317550451" duration="1902000" />
+      <workItem from="1558354865014" duration="3252000" />
+      <workItem from="1558761177497" duration="10075000" />
+      <workItem from="1558787003064" duration="1018000" />
+      <workItem from="1559637517352" duration="9178000" />
+      <workItem from="1559696027415" duration="6614000" />
+      <workItem from="1559751551419" duration="476000" />
+      <workItem from="1559823593565" duration="4117000" />
+      <workItem from="1559889116469" duration="222000" />
+      <workItem from="1560010101733" duration="2432000" />
+      <workItem from="1560699456627" duration="172000" />
+      <workItem from="1560700354574" duration="5555000" />
+      <workItem from="1560735312293" duration="4345000" />
+      <workItem from="1560764714179" duration="10625000" />
+      <workItem from="1560785870686" duration="7986000" />
+      <workItem from="1560838000182" duration="5976000" />
+      <workItem from="1560876265872" duration="1896000" />
+      <workItem from="1560921680220" duration="598000" />
+      <workItem from="1560929069034" duration="3843000" />
+      <workItem from="1561009783702" duration="4518000" />
+      <workItem from="1561032219884" duration="7039000" />
+      <workItem from="1561044994310" duration="6435000" />
+      <workItem from="1561080560380" duration="15610000" />
+      <workItem from="1561114878848" duration="1220000" />
+      <workItem from="1561122320425" duration="12206000" />
+      <workItem from="1561265320156" duration="21184000" />
+      <workItem from="1561340397545" duration="39265000" />
+      <workItem from="1561527593438" duration="6438000" />
+      <workItem from="1561539465372" duration="2165000" />
+      <workItem from="1561618042462" duration="2339000" />
+      <workItem from="1561651872116" duration="614000" />
+      <workItem from="1561690135636" duration="9165000" />
+      <workItem from="1561724090639" duration="1440000" />
+      <workItem from="1561783254829" duration="1952000" />
+      <workItem from="1561804124799" duration="2486000" />
+      <workItem from="1561822713770" duration="858000" />
+      <workItem from="1561856216081" duration="2820000" />
+      <workItem from="1561868901935" duration="2400000" />
+      <workItem from="1561877596860" duration="8469000" />
+      <workItem from="1561952086309" duration="11310000" />
+      <workItem from="1561995004844" duration="623000" />
+      <workItem from="1562025678870" duration="546000" />
+      <workItem from="1562041587730" duration="590000" />
+      <workItem from="1562044089283" duration="601000" />
+      <workItem from="1562290454544" duration="5440000" />
+      <workItem from="1562299661674" duration="5408000" />
+      <workItem from="1562306428842" duration="372000" />
+      <workItem from="1562307642550" duration="724000" />
+      <workItem from="1562339645380" duration="6356000" />
+      <workItem from="1562379893928" duration="3128000" />
+      <workItem from="1562387916260" duration="1229000" />
+      <workItem from="1562417311932" duration="1562000" />
+      <workItem from="1562427092218" duration="5329000" />
+      <workItem from="1562433660052" duration="132000" />
+      <workItem from="1562434065893" duration="66000" />
+      <workItem from="1562434763060" duration="2000" />
+      <workItem from="1562475104298" duration="778000" />
+      <workItem from="1562512768852" duration="6383000" />
+      <workItem from="1562590793606" duration="3482000" />
+      <workItem from="1562632067139" duration="1647000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="286094000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="27" width="1299" height="741" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49917355" visible="true" weight="0.29848364" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" weight="0.6837748" />
+      <window_info id="Favorites" order="3" sideWeight="0.5008264" side_tool="true" weight="0.2952913" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.47768596" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32894737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/uploads/download.png-1559637954176.png" />
+    <entry file="file://$PROJECT_DIR$/uploads/Screenshot from 2019-05-14 17-18-15.png-1559825229869.png" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/blog.html" />
+    <entry file="file://$PROJECT_DIR$/dbconfig/dbconfigs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/userModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="17950" column="12" selection-start-line="17950" selection-start-column="12" selection-end-line="17950" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/FeedbackModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/query.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/feedback.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="90" selection-start-line="20" selection-start-column="90" selection-end-line="20" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/BookingController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/FeedbackController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/logout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/ItemModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/viewdetail.html" />
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/BookingModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/booking.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/jquery-3.3.0.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/userController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/ItemController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Items.js" />
+    <entry file="file://$PROJECT_DIR$/killport">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/AuthController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2085">
+          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/itemdashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="102" column="63" selection-start-line="102" selection-start-column="63" selection-end-line="102" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16530">
+          <caret line="1102" column="21" selection-start-line="1102" selection-start-column="21" selection-end-line="1102" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/admin/account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1890">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/admin/admincart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1966">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2805">
+          <caret line="187" column="64" selection-start-line="187" selection-start-column="64" selection-end-line="187" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/admin/items.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="94" column="45" selection-start-line="94" selection-start-column="45" selection-end-line="94" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/admin/messages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3030">
+          <caret line="202" column="64" selection-start-line="202" selection-start-column="64" selection-end-line="202" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/aboutus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3615">
+          <caret line="268" selection-start-line="268" selection-end-line="268" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/help.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4065">
+          <caret line="298" column="85" selection-start-line="298" selection-start-column="85" selection-end-line="298" selection-end-column="85" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/myaccount.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="219" column="2" selection-start-line="219" selection-start-column="2" selection-end-line="219" selection-end-column="2" />
+          <folding>
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/mycart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="235" column="43" selection-start-line="235" selection-start-column="43" selection-end-line="235" selection-end-column="43" />
+          <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="50" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/admincart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/myaccount.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/custom.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/User.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="75" column="27" lean-forward="true" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="76" column="108" selection-start-line="76" selection-start-column="108" selection-end-line="76" selection-end-column="108" />
+          <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-756">
+          <caret line="76" column="30" lean-forward="true" selection-start-line="66" selection-start-column="18" selection-end-line="76" selection-end-column="30" />
+          <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="46" selection-start-line="46" selection-end-line="146" selection-end-column="25" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/frontend/user/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="n#header#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#p#1;n#fieldset#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#fieldset#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/usersdashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="269" column="26" selection-start-line="269" selection-start-column="26" selection-end-line="269" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/userindex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#figure#0;n#li#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-api assignment/t3-frontend-web-Sprajapati123/resources/js/mycart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="45" column="25" lean-forward="true" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#figure#0;n#li#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
